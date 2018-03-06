@@ -4,6 +4,8 @@ This package implements most of Mac Lane's algorithms [1,2] and related
 structures to represent discrete valuations and discrete pseudo-valuations on
 rings in Sage.
 
+**This package is now obsolete. It has been merged completely into Sage, see https://trac.sagemath.org/ticket/21869.**
+
 The package should run on an unmodified Sage 8.0 and can be imported with
 ```
 sage: from mac_lane import *
